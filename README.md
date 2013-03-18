@@ -1,3 +1,6 @@
+This is a fork. The original program can be found here: https://github.com/samueljackson92/player-stage-install-script
+All code is his.
+
 Player/Stage Install Script
 ===========================
 A couple of bash scripts to automate the installation process of Player 3.0.2 and Stage 4.0.0 for Ubuntu. These scripts
